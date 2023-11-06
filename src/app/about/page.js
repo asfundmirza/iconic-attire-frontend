@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import Aboutimage from "../../../public/images/About.jpg"
+import Aboutimage from "../../../public/images/about.jpg"
 import banner from "../../../public/images/banner.svg"
 const About = () => {
   return <div>
