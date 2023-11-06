@@ -58,7 +58,7 @@ export default function Home() {
               <Image
                 src={modelimage}
                 alt="cycle "
-                className=" w-[600px] md:h-[600px] h-[400px]"
+                className=" w-[600px] md:h-[75vh] h-[400px]"
               />
             </div>
           </div>
