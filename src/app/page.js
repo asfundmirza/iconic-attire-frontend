@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <div>
       <div className="w-full ">
-        <div className="w-full h-screen relative flex flex-col md:flex-row bg-gradient-radial from-[#F3F9FF] to-[#DAECFF] ">
+        <div style={{ height: `calc(100vh - 80px)` }} className="w-full  relative flex flex-col md:flex-row bg-gradient-radial from-[#F3F9FF] to-[#DAECFF] ">
           <div className="flex items-center flex-col justify-center mt-9 md:mt-0 md:py-5  px-4    flex-1 md:flex-[0.9]">
             {/* Left side content  */}
             <div className="flex flex-col">
